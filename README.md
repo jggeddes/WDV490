@@ -1,2 +1,2 @@
 # WDV490
-Emerging Technologies Seminar
+Website Applications Seminar
